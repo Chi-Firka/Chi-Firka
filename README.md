@@ -1,2 +1,3 @@
-SS14 shitcoder, SS13 enjoyer<br>
+SS14 shitcoder, SS13 enjoyer
+
 langs: ru, en
