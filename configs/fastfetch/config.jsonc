@@ -81,9 +81,6 @@
             "type": "disk",
             "key": "   󰋊",
             "keyColor": "33",
-            "showSymbol": false,
-            "showType": false,
-            "onlyMounted": true
         },
         "break",
         "break",
