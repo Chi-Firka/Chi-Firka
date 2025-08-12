@@ -1403,7 +1403,7 @@
   typeset -g POWERLEVEL9K_BLANK_PADDING=none
   typeset -g POWERLEVEL9K_BLANK_BACKGROUND='213'
   function prompt_blank() {
-    p10k segment -t ' '
+    p10k segment -t ' ' # dunno how to make it actually blank, please lemme know if u do
   }
   
   # Heart RIGHT segment
@@ -1415,7 +1415,7 @@
     p10k segment -t '❤'
   }
 
-  # Emote segment
+  # Emote RIGHT segment
   typeset -g emote_frames=('UwU' '>.<' '<3' ':3' 'OwO')
   typeset -g POWERLEVEL9K_EMOTE_BACKGROUND='171'
   typeset -g POWERLEVEL9K_EMOTE_FOREGROUND='255'
