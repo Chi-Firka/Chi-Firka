@@ -22,15 +22,16 @@
     <img alt="Brain (sometimes)" src="https://img.shields.io/badge/smtimes-301530?style=for-the-badge&label=BRAIN&labelColor=%23853b85">
     <br>
     <img alt="Kitty" src="https://img.shields.io/badge/kitty-cf733d?style=for-the-badge&logo=gnometerminal&logoColor=%237a4424&labelColor=%23FFFFFF&link=https%3A%2F%2Fgithub.com%2Fkovidgoyal%2Fkitty">
-    <br>
     <img alt="OMZ" src="https://img.shields.io/badge/OMZ-F15A24?style=plastic&logo=Zsh&logoColor=white&link=https%3A%2F%2Fgithub.com%2Fohmyzsh%2Fohmyzsh">
     <img alt="P10K" src="https://img.shields.io/badge/P10K-343434?style=plastic&link=https%3A%2F%2Fgithub.com%2Fromkatv%2Fpowerlevel10k">
   </div>
   
   <br>
   
+  <div><samp>btw my configs</samp></div>
   <div>
-    <img alt="fastfetch" src="https://img.shields.io/badge/-fastfetch%20config-3a3a3a?style=flat&logo=gnubash&labelColor=grey&logoColor=white">
-    <img alt="p10k" src="https://img.shields.io/badge/-powerlevel10k%20config-3a3a3a?style=flat&label=%E2%9D%AF&logoColor=white">
+    <a href="https://github.com/Chi-Firka/Chi-Firka/blob/chifirka-new-readme/configs/fastfetch/config.jsonc"><img alt="fastfetch" src="https://img.shields.io/badge/-fastfetch%20config-3a3a3a?style=flat&logo=gnubash&labelColor=grey&logoColor=white"></a>
+    <br>
+    <a href="https://github.com/Chi-Firka/Chi-Firka/blob/chifirka-new-readme/configs/.p10k.zsh"><img alt="p10k" src="https://img.shields.io/badge/-powerlevel10k%20config-3a3a3a?style=flat&label=%E2%9D%AF&logoColor=white"></a>
   </div>
 </div>
